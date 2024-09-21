@@ -1,2 +1,2 @@
 # Simple-CA
-Simple Rsa certificate authority
+Very Basic Rsa certificate authority
